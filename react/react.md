@@ -1,4 +1,4 @@
-# React class
+# Create React functional componetn
 
 ```ts
 import React from 'react';
