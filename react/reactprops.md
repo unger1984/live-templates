@@ -4,9 +4,10 @@
 import React from 'react';
 
 export interface $NAME$Props{
+    $END$
 }
 
-export function $NAME$({$END$}: $NAME$Props): React.Element{
+export function $NAME$({}: $NAME$Props): React.Element{
 	return ();
 };
 ```
