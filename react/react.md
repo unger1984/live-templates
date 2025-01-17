@@ -3,10 +3,8 @@
 ```ts
 import React from 'react';
 
-export const $NAME$: React.FC = () => {
-	return (
-		$END$
-	);
+export function $NAME$(): React.Element{
+	return ($END$);
 };
 ```
 
